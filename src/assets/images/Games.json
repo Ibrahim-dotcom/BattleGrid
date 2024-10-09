@@ -1,0 +1,19 @@
+[
+    {
+        "Name": "Mobile Legends Bang Bang",
+        "alias": "MLBB",
+        "image": "./assets/MLBB.jpg"
+    },
+
+    {
+        "Name": "Call Of Duty Mobile",
+        "alias": "CODM",
+        "image": "./assets/codm.webp"
+    },
+
+    {
+        "Name": "Mobile Legends",
+        "alias": "MLBB",
+        "image": "./assets/MLBB.jpg"
+    }
+]

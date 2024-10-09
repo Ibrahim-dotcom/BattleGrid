@@ -1,0 +1,36 @@
+.signup-container{
+    overflow: hidden;
+    background-color: #fff;
+
+}
+
+
+.signup-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-width: 100vw;
+    height: 100vh;
+    padding: 0;
+
+}
+
+.xsignup-container .top-bar{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 60px;
+}
+
+.signup-container .top-bar h4 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.signup-container .left-img-login{
+    width: 50vw;
+    height: 100vh;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-origin: padding-box;  
+    background-image: /*linear-gradient(rgba(10, 0, 0, 0.5), rgba(0, 20, 20,0.5)),*/
+                     url("/assets/images/subzero.jpg"); 
+}
